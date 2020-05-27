@@ -1,1 +1,2 @@
-# rotating_cards
+# rotating-card
+
